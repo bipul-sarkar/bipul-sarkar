@@ -14,21 +14,15 @@ A modern, fully responsive SaaS Landing Page built with clean UI, smooth animati
 Modern SaaS-style hero section
 
 * Professional UI/UX layout
-
 * Reusable components
-
 * Smooth animations & transitions
-
 * Fully responsive across devices
   
 🛠️ Tech Stack
 
 * HTML
-
 * CSS
-
 * JavaScript
-
 * Tailwind CSS
 
 Tailwind CSS (if added later)
@@ -46,22 +40,16 @@ A visually appealing cocktails website that fetches drink data and displays it b
 Cocktail search functionality
 
 * Clean and attractive UI
-
 * Dynamic drink details
-
 * Responsive design
 
 
 🛠️ Tech Stack
 
 * HTML
-
 * CSS
-
 * JavaScript
-
 * Tailwind CSS
-
 * GSAP (GreenSock Animation Platform)
 
 ----------------------------------------------------
@@ -71,11 +59,8 @@ Cocktail search functionality
 These projects were created to grow skills in:
 
 * UI/UX Design
-
 * Responsive Layouts
-
 * Clean Code Architecture
-  
 * Modern Frontend Development
 
 🧑‍💻 More Projects Coming Soon
